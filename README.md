@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Charlene Mitchell</h1>
-<h3 align="center">A passionate fullstack developer from Columbus, Ohio.</h3>
+<h3 align="center">A fullstack developer from Columbus, Ohio.</h3>
 
-- 🔭 I’m currently working on **a fullstack bird tracker web app.**
 
 - 👯 I’m a recent **Java bootcamp graduate, with over a decade of professional healthcare experience.**
 
